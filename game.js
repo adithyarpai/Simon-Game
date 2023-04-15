@@ -69,7 +69,7 @@ function checkAnswer(currentLevel) {
         startOver();
     }
 }    
-
+// Starting of the game
 function startOver(){
     level = 0;
     gamePattern = [];
